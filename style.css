@@ -75,23 +75,18 @@ body {
 .operator:nth-child(4n) {
 	font-size: 20px;
 }
-
 .operator:nth-child(4) {
 	background-color: #d6b161;
 }
-
 .operator:nth-child(8) {
 	background-color: #4650dc;
 }
-
 .operator:nth-child(12) {
 	background-color: #FFCE00;
 }
-
 .operator:nth-child(16) {
 	background-color: #00c9b1;
 }
-
 .operator:nth-child(20) {
 	background-color: #f41c54;
 }
